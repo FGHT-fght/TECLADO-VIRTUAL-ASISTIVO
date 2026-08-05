@@ -1,0 +1,7 @@
+#hola, basicamente este programa sigue esta estructura:
+capturar frame
+→ detectar rostro
+→ obtener landmarks
+→ analizar gestos
+→ decidir acción
+→ mostrar resultado

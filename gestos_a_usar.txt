@@ -1,0 +1,22 @@
+# AAC – Controles del Teclado para Personas con ELA
+
+# Navegación del teclado (movimientos de cabeza)
+Cabeza izquierda   → Mover selección a la izquierda
+Cabeza derecha     → Mover selección a la derecha
+Cabeza arriba      → Mover selección hacia arriba
+Cabeza abajo       → Mover selección hacia abajo
+
+# Acciones principales (gestos de ojos)
+Guiño ojo derecho  → Seleccionar tecla (ENTER)
+Guiño ojo izquierdo → Borrar última letra
+
+# Comunicación
+Cerrar ambos ojos   → Enviar palabra + agregar espacio automáticamente
+
+# Seguridad
+Tecla [BORRAR TODO] → Limpiar todo el texto escrito
+
+# Recomendaciones de delay (tiempo mínimo entre acciones)
+Navegación           → rápida (0.15s – 0.25s)
+Seleccionar / Borrar → media (0.5s – 0.8s)
+Borrar todo           → larga (1.5s+)
